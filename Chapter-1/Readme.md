@@ -1,4 +1,4 @@
-# Chapter - 1 : Creating Basic Statemachiane using Boost::Startchart Library
+# Chapter - 1 : Creating Basic Statemachiane using Boost::Statechart Library
 
 ## 1.1  What are StateMachines?
 
